@@ -25,3 +25,4 @@ std::string Database::DisplayAll() const
 	}
 	return result;
 }
+

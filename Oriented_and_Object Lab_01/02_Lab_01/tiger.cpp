@@ -15,3 +15,5 @@ std::string Tiger::getInfo() const
 {
 	return Mammal::getInfo() + "\n" + "Tiger Status: " + tigerStatus;
 }
+
+

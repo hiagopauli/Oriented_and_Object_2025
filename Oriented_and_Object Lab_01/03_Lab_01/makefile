@@ -1,5 +1,5 @@
-CXX = g++
-CXXFLAGS = -std=c++14 -g
+CXX = gcc-14
+CXXFLAGS = -std=c++23 -lstdc++ -g
 SRCS = $(wildcard *.cpp)
 OBJS = $(SRCS:.cpp=.o)
 EXEC = app

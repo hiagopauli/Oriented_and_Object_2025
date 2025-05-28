@@ -1,0 +1,22 @@
+DATABASE--- 
+Distance from sun: 4.5e+06 millions km
+Gravity: 11 m/sˆ2
+Has water: Yes
+Dominant gas: hydrogen
+Planet type: ice giant
+------------------
+Distance from sun: 249 millions km
+Gravity: 4 m/sˆ2
+Has water: Yes
+Crust composition: iron, magnesium, aluminum, calcium, potassium
+Core composition: iron, nickel, sulfur.
+------------------
+Orbits: Jupiter
+------------------
+Distance from sun: 1.43e+07 millions km
+Gravity: 11 m/sˆ2
+Has water: No
+Dominant gas: hydrogen
+Planet type: gas giant
+Ring count: 7
+------------------
